@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=ToncheFelix)
 
 
-Computólogo.
+Computer Engineer.  
+University of Zacatecas MX.  
 H-Tech Mx
 
 a man of focus, commitment, sheer will.
