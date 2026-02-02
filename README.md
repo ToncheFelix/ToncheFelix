@@ -6,9 +6,9 @@ Computer Engineer.
 ------------------
 Autonomous University of Zacatecas, Mexico.
 ---------------------------------------
-🔭 I’m currently working on sharing knowledge.
-🌱 I’m currently learning frameworks and map setup automatic deploy with AI.
-👯 I’m looking to collaborate on big company.
+🔭 I’m currently working on sharing knowledge.<br>
+🌱 I’m currently learning frameworks and map setup automatic deploy with AI.<br>
+👯 I’m looking to collaborate on big company.<br>
 
 ---------------------------------------
 <!--
