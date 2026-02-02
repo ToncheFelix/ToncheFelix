@@ -4,10 +4,12 @@
 
 Computer Engineer.
 ------------------
-University of Zacatecas MX.  
-H-Tech Mx
+Autonomous University of Zacatecas, Mexico.
 ---------------------------------------
-really?
+🔭 I’m currently working on sharing knowledge.
+🌱 I’m currently learning frameworks and map setup automatic deploy with AI.
+👯 I’m looking to collaborate on big company.
+
 ---------------------------------------
 <!--
 **ToncheFelix/ToncheFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
